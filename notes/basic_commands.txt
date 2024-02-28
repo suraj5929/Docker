@@ -1,0 +1,14 @@
+Day 1
+
+4 ways to install os
+    laptop
+    aws/azure
+    containerization
+    virtualization
+
+docker commands 
+    see images- docker images
+    pull images- docker pull
+    run container- docker run <image-name>
+    interactive terminal- docker run -it <image-name>
+    list of containers- docker ps
